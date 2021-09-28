@@ -1,4 +1,6 @@
 
+tentando ver as mudanças com remoto
+
 git hub
 
 arquivo pertencente ao teste alpha para entender esse treco de git
